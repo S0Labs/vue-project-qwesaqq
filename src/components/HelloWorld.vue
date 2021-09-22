@@ -29,6 +29,12 @@
     </ul>
   </div>
 </template>
+<div style="height:100%; 
+width:100%;display: none;">
+flowwer</div>
+<script src="./snowfall.jquery.js">
+</script>
+
 
 <script>
 export default {
